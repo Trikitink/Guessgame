@@ -1,2 +1,0 @@
-# Guessgame
-minigame
